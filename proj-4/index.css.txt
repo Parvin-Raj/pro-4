@@ -1,0 +1,34 @@
+label{
+    color:aliceblue;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+.f1{
+    color: aliceblue;
+    padding: 20px;
+}
+.f1 input[type="text"]{
+    padding: 10px;
+    width: 70%;
+}
+.f1 label{
+    display: block;
+    padding-bottom:20px;
+}
+.button{
+    background-color: rgba(8, 240, 39, 0.781);
+    color: aliceblue;
+    padding: 12px;
+    border:none;
+}
+.f11{
+    padding-bottom: 17px;
+}
+.f12{
+    padding-bottom: 25px;
+    
+}
